@@ -2,7 +2,7 @@
 Customer Complaint Dashboard using Tableau
 
 ### Description
-This project sowcase a interactive customer complaint dashboard built using Tableau. The dashboard provides insights into customer complaints, including:
+This project showcase a interactive customer complaint dashboard built using Tableau. The dashboard provides insights into customer complaints, including:
 1. Complaint Volume: Total number pf complaints over time
 2. Complaint Categories : Breakdown of complaints by category
 3. Complaint Resolution : Time-to-reslve complaints and resolution rates
